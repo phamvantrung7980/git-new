@@ -1,0 +1,276 @@
+jbody {
+    font-family: "Cambria";
+    font-size: 13px;
+    width: 1280px;
+    margin: 0px auto;
+}
+
+
+
+#menu_top {
+    position: relative;
+    font-family: Arial;
+    text-transform: uppercase;
+    background: #ffffff;
+    height: 55px;
+}
+
+#menu_top #menu1 a {
+    position: absolute;
+    height: 55px;
+    width: 100px;
+    text-decoration: none;
+    line-height: 55px;
+    text-align: center;
+    left: 39px;
+    color: #5a5a5a;
+}
+
+#menu_top #menu2 a {
+    position: absolute;
+    height: 55px;
+    width: 100px;
+    text-decoration: none;
+    line-height: 55px;
+    text-align: center;
+    left: 139px;
+    color: #5a5a5a;
+}
+
+#menu_top #menu3 a {
+    position: absolute;
+    height: 55px;
+    width: 100px;
+    text-decoration: none;
+    line-height: 55px;
+    text-align: center;
+    right: 253px;
+    color: #5a5a5a;
+}
+
+#menu_top #menu4 a {
+    position: absolute;
+    height: 55px;
+    width: 100px;
+    text-decoration: none;
+    line-height: 55px;
+    text-align: center;
+    right: 153px;
+    color: #5a5a5a;
+}
+
+#menu_top #menu5 a {
+    position: absolute;
+    height: 55px;
+    width: 100px;
+    text-decoration: none;
+    line-height: 55px;
+    text-align: center;
+    right: 53px;
+    color: #372525;
+}
+
+#menu_top a:hover {
+    background-color: #A7C4E9;
+}
+
+
+
+#banner {
+    background-image: url('2.png');
+    height: 500px;
+    width: 1280px;
+}
+
+#banner_content {
+    position: absolute;
+    height: 500px;
+    width: 1280px;
+    z-index: 1;
+}
+
+#banner #banner_content h1 {
+    position: absolute;
+    margin: 0px;
+    padding-top: 180px;
+    padding-left: 39px;
+    font-size: 50px;
+}
+
+#banner #banner_content p {
+    position: absolute;
+    margin: 0px;
+    padding-top: 240px;
+    padding-left: 39px;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.banner_content_header img {
+    width: 100%;
+    height: auto;
+}
+
+.text {
+    position: relative;
+    color: white;
+}
+
+.img-banner,
+.text-banner {
+    position: absolute;
+    width: 100%;
+}
+
+
+
+#main {
+    margin-top: -15px;
+    background: #efefef;
+    height: 510px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+#main_top {
+    background: #efefef;
+    width: 1200px;
+    height: 100px;
+    margin: 10px auto;
+}
+
+#main_img {
+    position: relative;
+    width: 1200px;
+    height: 460px;
+    margin: 0px auto;
+}
+
+#main #main_img #img1 {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    height: auto;
+    width: auto;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#main #main_img #img2 {
+    position: absolute;
+    top: 0px;
+    left: 415px;
+    height: auto;
+    width: auto;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#main #main_img #img3 {
+    position: absolute;
+    top: 0px;
+    left: 826px;
+    height: auto;
+    width: auto;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#main #main_img #img4 {
+    position: absolute;
+    top: 200px;
+    left: 5px;
+    height: auto;
+    width: auto;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#main #main_img #img5 {
+    position: absolute;
+    top: 200px;
+    left: 415px;
+    height: auto;
+    width: auto;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#main #main_top h2 {
+    padding-top: 31px;
+    font-family: Arial;
+}
+
+#main #main_top p {
+    font-family: Arial;
+}
+
+
+
+#booter {
+    position: relative;
+    margin-top: 0px;
+    background: #f7f7f7;
+    height: 200px;
+}
+
+#booter_left {
+    position: absolute;
+    top: 0px;
+    left: 41px;
+    height: 150px;
+    width: 360px;
+    float: left;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#booter #booter_left a {
+    color: #00b0fe;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+#booter #booter_left p {
+    font-family: Arial;
+}
+
+#booter_right {
+    position: absolute;
+    top: 0px;
+    left: 864px;
+    height: 150px;
+    width: 360px;
+    float: right;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#booter #booter_right a {
+    color: #00b0fe;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+#booter #booter_right p {
+    font-family: Arial;
+}
+
+#booter_center {
+    position: absolute;
+    top: 0px;
+    left: 453px;
+    height: 150px;
+    width: 360px;
+    margin: 0px auto;
+    padding-top: 0px;
+}
+
+#booter #booter_center a {
+    color: #00b0fe;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+#booter #booter_center p {
+    font-family: Arial;
+}
